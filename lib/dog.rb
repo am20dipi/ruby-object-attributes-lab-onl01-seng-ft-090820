@@ -1,6 +1,4 @@
 class Dog
- # attr_accessor :name 
-  #attr_reader:breed
   def name= (dog_name)
     @this_dogs_name =dog_name
   end
